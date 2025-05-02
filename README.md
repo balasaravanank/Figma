@@ -33,7 +33,7 @@ Publish the website in the given URL.
 Figma
 
 ## CODE:
-#HOME PAGE
+# HOME PAGE
 ```
 <div style="width: 430px; height: 932px; position: relative; background: #151316; overflow: hidden; border-radius: 26px">
   <img style="width: 90px; height: 197px; left: 366px; top: 230px; position: absolute; box-shadow: 9px 9px 9px; filter: blur(4.50px)" src="https://placehold.co/90x197" />
@@ -56,7 +56,7 @@ Figma
   <img style="width: 121px; height: 130px; left: 152px; top: 316px; position: absolute" src="https://placehold.co/121x130" />
 </div>
 ```
-#LOGIN PAGE -1
+# LOGIN PAGE -1
 ```
 <div style="width: 430px; height: 932px; position: relative; background: #151316; overflow: hidden; border-radius: 26px">
   <img style="width: 650px; height: 488px; left: -108px; top: -202px; position: absolute" src="https://placehold.co/650x488" />
@@ -76,7 +76,7 @@ Figma
   <img style="width: 364px; height: 85px; left: 39px; top: 41px; position: absolute" src="https://placehold.co/364x85" />
 </div>
 ```
-#LOGIN PAGE -2
+# LOGIN PAGE -2
 ```
 <div style="width: 430px; height: 932px; position: relative; background: #151316; overflow: hidden; border-radius: 26px">
   <img style="width: 896px; height: 732px; left: -247px; top: -446px; position: absolute" src="https://placehold.co/896x732" />
@@ -117,7 +117,7 @@ Figma
   <img style="width: 364px; height: 85px; left: 32px; top: 41px; position: absolute" src="https://placehold.co/364x85" />
 </div>
 ```
-#LOGIN PAGE -3
+# LOGIN PAGE -3
 ```
 <div style="width: 430px; height: 932px; position: relative; background: #151316; overflow: hidden; border-radius: 26px">
   <img style="width: 470px; height: 664px; left: -19px; top: -284px; position: absolute" src="https://placehold.co/470x664" />
@@ -171,7 +171,7 @@ Figma
   <img style="width: 364px; height: 85px; left: 39px; top: 41px; position: absolute" src="https://placehold.co/364x85" />
 </div>
 ```
-#MAIN MENU PAGE
+# MAIN MENU PAGE
 ```
 <div style="width: 430px; height: 932px; position: relative; background: #151316; overflow: hidden; border-radius: 26px">
   <img style="width: 90px; height: 197px; left: 366px; top: 230px; position: absolute; box-shadow: 9px 9px 9px; filter: blur(4.50px)" src="https://placehold.co/90x197" />
@@ -534,7 +534,7 @@ Figma
   <img style="width: 144px; height: 144px; left: 40px; top: 575px; position: absolute; border-radius: 12px" src="https://placehold.co/144x144" />
 </div>
 ```
-#INFO PAGE
+# INFO PAGE
 ```
 <div style="width: 430px; height: 932px; position: relative; background: #151316; overflow: hidden; border-radius: 26px">
   <img style="width: 90px; height: 197px; left: 366px; top: 230px; position: absolute; box-shadow: 9px 9px 9px; filter: blur(4.50px)" src="https://placehold.co/90x197" />
@@ -590,7 +590,7 @@ Figma
   <div style="left: 162px; top: 873px; position: absolute; color: white; font-size: 16px; font-family: Poppins; font-weight: 500; word-wrap: break-word">Register Now</div>
 </div>
 ```
-#REGISTER PAGE
+# REGISTER PAGE
 ```
 <div style="width: 430px; height: 932px; position: relative; background: #151316; overflow: hidden; border-radius: 26px">
   <img style="width: 90px; height: 197px; left: 366px; top: 230px; position: absolute; box-shadow: 9px 9px 9px; filter: blur(4.50px)" src="https://placehold.co/90x197" />
@@ -656,7 +656,7 @@ Figma
   <div style="left: 126px; top: 874px; position: absolute; color: white; font-size: 16px; font-family: Poppins; font-weight: 500; word-wrap: break-word"> Confirm Registration</div>
 </div>
 ```
-#CONFIRM PAGE
+# CONFIRM PAGE
 ```
 <div style="width: 430px; height: 932px; position: relative; background: #151316; overflow: hidden; border-radius: 26px">
   <img style="width: 90px; height: 197px; left: 366px; top: 230px; position: absolute; box-shadow: 9px 9px 9px; filter: blur(4.50px)" src="https://placehold.co/90x197" />
